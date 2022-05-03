@@ -6,5 +6,8 @@ body{
 h2{
     color:blue;
 }
+img{
+    border-radius: 50%;
+}
 
 
